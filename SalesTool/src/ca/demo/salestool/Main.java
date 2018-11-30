@@ -12,7 +12,8 @@ public class Main {
 		System.out.println("happy sales folks");
 		System.out.println("displays sales data");
 		System.out.println("sslsl");
-		System.out.println("display greeting");   
+		System.out.println("display greeting");
+		System.out.println("tryping commit and push now");
 	}
 
 }
